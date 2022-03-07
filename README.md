@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/CSTRSK/-PlanetNine/raw/main/35.png" width="400"/>
+  <img src="https://github.com/CSTRSK/-PlanetNine/raw/main/35.png" width="800"/>
 </div>
 # PlanetNine
 Planet Nine BEP-20 Token
