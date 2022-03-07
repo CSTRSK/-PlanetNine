@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/CSTRSK/-PlanetNine/raw/main/35.png" width="800"/>
+  <img src="https://github.com/CSTRSK/-PlanetNine/raw/main/planet-581239.jpg" width="200"/>
 </div>
 
 # PlanetNine
