@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/CSTRSK/-PlanetNine/raw/main/planet-581239.jpg" width="200"/>
+  <img src="https://github.com/CSTRSK/-PlanetNine/blob/c9e4a84c2240cdb5f23237f2af7d8a90c52cdfc5/My-img8bit-com-Effect%20(1).gif?raw=true" width="200"/>
 </div>
 
 # PlanetNine
