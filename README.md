@@ -1,7 +1,10 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 # PlanetNine
- Planet Nine BEP-20 Token
-   
- #LIQ+#RFI+#SHIB+#DOGE+#SafeMoon = #Planet9
+Planet Nine BEP-20 Token
+
+#LIQ+#RFI+#SHIB+#DOGE+#SafeMoon = #Planet9
 
 #Planet9 features:
 9% fee auto add to the liquidity pool to locked forever when selling
