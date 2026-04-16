@@ -7,7 +7,7 @@
 [![GitHub](https://img.shields.io/badge/Source-Open--Source-yellow?style=for-the-badge&logo=github)](https://github.com/CSTRSK/-PlanetNine)
 [![Security](https://img.shields.io/badge/Security-Liquidity_Burned-red?style=for-the-badge)](https://bscscan.com/token/0x18c9210f5a98a53a0a3b01880844382614089ee9#balances)
 
-<img src="https://raw.githubusercontent.com/CSTRSK/-PlanetNine/main/preview.png" alt="Planet9 Preview" width="100%" style="border-radius: 15px; border: 1px solid #f7931e;">
+<img src="https://github.com/CSTRSK/-PlanetNine/blob/main/My-img8bit-com-Effect%20%281%29.gif" alt="Planet9 Preview" width="100%" style="border-radius: 15px; border: 1px solid #f7931e;">
 
 ---
 
